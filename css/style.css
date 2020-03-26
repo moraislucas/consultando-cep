@@ -143,6 +143,6 @@ a:hover {
     }
 
     footer {
-        height: 30vh;
+        display: none;
     }
 }
