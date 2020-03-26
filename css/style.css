@@ -95,10 +95,9 @@ body,
 }
 
 footer {
-    height: 42vh;
-    display: flex;
-    justify-content: center;
-    align-items: flex-end;
+    position: absolute;
+    bottom: 40px;
+    right: 40px;
 }
 
 footer p {
