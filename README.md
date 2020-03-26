@@ -1,4 +1,4 @@
-# ConsultaCEP
+# ConsultandoCEP
 
 <https://consultandocep.netlify.com/>
 
